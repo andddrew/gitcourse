@@ -1,6 +1,3 @@
-# Andrew Kwak
-Software Engineer
+# Git course
 
-## Get to know me on:
-
-- [Github](https://www.github.com/andddrew)
+Quick review on all Git topics.  
